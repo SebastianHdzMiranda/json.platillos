@@ -2,7 +2,7 @@
     "platillos": [
       {
         "id": 1,
-        "nombre": "Pizza Plaza",
+        "nombre": "Pizza a la Leña Chica",
         "precio": 30,
         "categoria": 1
       },
